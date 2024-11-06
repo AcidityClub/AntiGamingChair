@@ -3,6 +3,8 @@ AntiGamingChair is an advanced Minecraft anti-cheat that is currently used on Mi
 
 The goal of this project is to build upon an old version of AGC, and try to replicate how the latest version (only used on Minemen) works.
 
+! This isn't anywhere near a perfect replication of latest AntiGamingChair, it just uses ideas from the latest AntiGamingChair and builds upon them !
+
 ### Notice
 Keep in mind this project was made entirely for educational purposes. I am just trying to create a open-source project people can learn from and use.
 
