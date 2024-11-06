@@ -1,0 +1,2 @@
+You will need to get a copy of Club Spigot (which can be found on the repository's README.md when I update it) for AntiGamingChair to function correctly.
+Once downloaded, drag it here and then you can compile the source!

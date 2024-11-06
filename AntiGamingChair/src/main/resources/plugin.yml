@@ -1,0 +1,17 @@
+name: AntiGamingChair
+version: '${version}'
+main: club.acidity.antigamingchair.AntiGamingChair
+permissions:
+  anticheat:
+    description: "?"
+    children:
+      check:
+        description: "?"
+        children:
+          - toggle
+      alerts:
+        description: "?"
+      command:
+        description: "?"
+        children:
+          - agc
